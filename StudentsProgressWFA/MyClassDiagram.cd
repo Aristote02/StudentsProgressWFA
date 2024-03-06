@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StudentsProgressWFA.StudentRepository" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgQAAAgCAAAAAAgIAAABCIAAAAEAAQAAAoAAAAAAAAA=</HashCode>
+      <FileName>StudentRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.Student" Collapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAIAAAAAAAAQAAAACAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.Faculty" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Faculty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.FacultyRepository" Collapsed="true">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAIAAAAAAkAAAAAAIAAAAABAAAAAAIAAACAAAA=</HashCode>
+      <FileName>FacultyRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.Specialty" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Specialty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.SpecialtyRepository" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAkAAAAAAIAAAgQAAAAAAAQAAACAAAA=</HashCode>
+      <FileName>SpecialtyRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.Subject" Collapsed="true">
+    <Position X="2.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.SubjectRepository" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAEAAIAAIIAAAABAAAAAACAAAACAAAA=</HashCode>
+      <FileName>SubjectRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.Test" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAABAAAAIAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Test.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.TestRepository" Collapsed="true">
+    <Position X="9.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAmAAAAAAIAIAAAAAAACAAAAAACAAAA=</HashCode>
+      <FileName>TestRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.TypeTest" Collapsed="true">
+    <Position X="7" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TypeTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.TypeTestRepository" Collapsed="true">
+    <Position X="5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAEAAABAAIAACAAAAAACACAAAACAAAA=</HashCode>
+      <FileName>TypeTestRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.GroupSt" Collapsed="true">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>GroupSt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.GroupStRepository" Collapsed="true">
+    <Position X="9" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAkAAAAAAIAAAAAAAAQAAAAAAgCAAFA=</HashCode>
+      <FileName>GroupStRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.PassExam" Collapsed="true">
+    <Position X="3.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCBAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PassExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.PassExRepository" Collapsed="true">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAABCkAAAAgCIBAABAAAAAAIAAAAACEAQA=</HashCode>
+      <FileName>PassExRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.AverageSt" Collapsed="true">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAABAAAAAAAAIAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AverageSt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.MostSuccessFulStudent" Collapsed="true">
+    <Position X="7" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>MostSuccessFulStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsProgressWFA.DiffAndSimSub" Collapsed="true">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DiffAndSimSub.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="11.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
